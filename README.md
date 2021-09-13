@@ -1,5 +1,6 @@
 # ResNet50-vd
 ResNet50-vd is from "Bag of Tricks for Image Classiﬁcation with Convolutional Neural Networks".
+
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1guf268up3fj60ba0ioglz02.jpg)
 
 ### Compare with ResNet50
